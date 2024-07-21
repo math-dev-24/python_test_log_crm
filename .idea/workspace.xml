@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d10b7522-c8e0-43e9-a6c8-d713ee6c75d6" name="Changes" comment="" />
+    <list default="true" id="d10b7522-c8e0-43e9-a6c8-d713ee6c75d6" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbUsers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -20,6 +27,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python tests.pytest for test_userModel.test_check_name_digits.executor": "Run",
     "Python tests.pytest for test_userModel.test_check_name_empty.executor": "Run",
     "Python tests.pytest for test_userModel.test_check_names.executor": "Run",
@@ -34,6 +42,7 @@
     "Python.userController.executor": "Run",
     "Python.userModel.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Alex/Desktop/CrmDjango/test",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -191,16 +200,29 @@
       <updated>1721552742738</updated>
       <workItem from="1721552743717" duration="57000" />
       <workItem from="1721552826645" duration="325000" />
-      <workItem from="1721553158675" duration="7641000" />
+      <workItem from="1721553158675" duration="7891000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1721563975214</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721563975214</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CrmDjango$pytest_in_test_userModel_py.coverage" NAME="pytest in test_userModel.py Coverage Results" MODIFIED="1721562897640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/CrmDjango$pytest_for_test_userModel_test_check_name_digits.coverage" NAME="pytest for test_userModel.test_check_name_digits Coverage Results" MODIFIED="1721563746892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/CrmDjango$pytest_in_test_userModel_py.coverage" NAME="pytest in test_userModel.py Coverage Results" MODIFIED="1721563776807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/CrmDjango$pytest_for_test_userModel_test_not_exists.coverage" NAME="pytest for test_userModel.test_not_exists Coverage Results" MODIFIED="1721562628596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/CrmDjango$user__1_.coverage" NAME="user (1) Coverage Results" MODIFIED="1721554672556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Core" />
     <SUITE FILE_PATH="coverage/CrmDjango$userController.coverage" NAME="userController Coverage Results" MODIFIED="1721558175641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Controllers" />
